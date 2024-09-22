@@ -4,7 +4,7 @@ metadata:
   name: flux-compose-demo
 spec:
   interval: 1m
-  url: https://github.com/mikesir87/flux-compose-demo
+  url: https://github.com/DiogoRSC/flux-compose-demo
   ref:
     branch: main
 ---
